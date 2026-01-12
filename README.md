@@ -1,9 +1,10 @@
-#Fuel&Go – Analisi dei prezzi carburante sulle Autostrade italiane
+Fuel&Go – Analisi dei prezzi carburante sulle Autostrade italiane
 
-##Progetto sviluppato nell’ambito del Master AIDA, con l’obiettivo di supportare la scelta della carta carburante più conveniente e ottimizzare i costi di rifornimento lungo la rete autostradale italiana.
+Progetto sviluppato nell’ambito del Master AIDA, con l’obiettivo di supportare la scelta della carta carburante più conveniente e ottimizzare i costi di rifornimento lungo la rete autostradale italiana.
 
 L’applicazione interattiva è disponibile qui:  
 👉 https://fuel-prices-autostrade.streamlit.app/
+
 ---
 #📌 Descrizione del progetto
 
@@ -15,6 +16,7 @@ Il progetto include:
 • Costruzione di un grafo autostradale
 • Analisi dei prezzi carburante
 • Dashboard interattiva per confrontare costi, distributori e percorsi
+
 ---
 #🗂️ Struttura del repository
 
@@ -39,9 +41,11 @@ Download e pulizia dei dati relativi ai consumi dei vari modelli di veicoli, con
 • GitHub per versionamento e collaborazione
 • CSV come formato di scambio dati
 • Scraping per fonti prive di API
+
 ---
 🚀 Funzionalità principali
 • Confronto dei prezzi carburante lungo le autostrade italiane
 • Visualizzazione dei distributori e dei tratti autostradali
 • Analisi dei consumi in base al modello di veicolo
 • Supporto decisionale per la scelta della carta carburante più conveniente
+
