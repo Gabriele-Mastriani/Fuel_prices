@@ -1,20 +1,19 @@
-# Fuel_prices
-Progetto FUEL&GO
-Progetto per Master AIDA - Scelta della migliore carta carburante e minimizzazione del costo del carburante sulle Autostrade italiane.
-
-L'app con Streamlit a questo link --> https://fuel-prices-autostrade.streamlit.app/
-
-Guida agli Script
-Anagrafica_Distributori - Creazione della tabella che raccoglie informazioni anagrafiche relative a distributori ASPI e MIMIT
-
-Autostrade - Download sito MIMIT dei prezzi del carburante e di altre informazioni anagrafiche relative agli impianti ASPI e MIMIT.
-
-Caselli_Allacciamenti - Script di scraping per il download della tabella che riporta informazioni su caselli e allacciamenti autostradali.
-
-Input_Networkx - Creazione della dim_nodi e del grafo con nodi e archi che li collegano.
-
-Input_Streamlit - Creazione della dashboard con Streamlit
-
-Prezzi_Carburante - Creazione della tabella fact_prezzi
-
-Veicoli - Download e pulizia della tabella con informazioni sul consumo relativo a specifici modelli di veicolo (dim_consumo)
+# Fuel&Go – Progetto Master AIDA
+Obiettivo: Supportare la scelta ottimale della carta carburante e ridurre i costi di rifornimento lungo le autostrade italiane, integrando dati da fonti pubbliche e analisi personalizzate.
+🌐 App Streamlit disponibile qui → fuel-prices-autostrade.streamlit.app
+---
+📁 Struttura del progetto e guida agli script
+• Anagrafica_Distributori  
+Genera una tabella con informazioni anagrafiche sui distributori presenti lungo la rete ASPI e registrati presso il MIMIT.
+• Autostrade  
+Scarica dal sito MIMIT i dati sui prezzi dei carburanti e altre informazioni relative agli impianti autostradali ASPI e MIMIT.
+• Caselli_Allacciamenti  
+Script di scraping per ottenere la mappa dei caselli e degli allacciamenti autostradali.
+• Input_Networkx  
+Costruisce la tabella dim_nodi e il grafo autostradale con nodi e archi, utilizzando NetworkX.
+• Input_Streamlit  
+Crea l’interfaccia interattiva dell’applicazione tramite Streamlit.
+• Prezzi_Carburante  
+Elabora la tabella fact_prezzi con i dati aggiornati sui prezzi dei carburanti.
+• Veicoli  
+Scarica e pulisce i dati relativi ai consumi di diversi modelli di veicoli, generando la tabella dim_consumo.
