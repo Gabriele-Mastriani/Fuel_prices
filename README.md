@@ -1,4 +1,4 @@
-#Fuel&Go – Analisi dei prezzi carburante sulle Autostrade italiane
+Fuel&Go – Analisi dei prezzi carburante sulle Autostrade italiane
 Progetto sviluppato nell’ambito del Master AIDA, con l’obiettivo di supportare la scelta della carta carburante più conveniente e ottimizzare i costi di rifornimento lungo la rete autostradale italiana.
 L’applicazione interattiva è disponibile qui:  
 👉 https://fuel-prices-autostrade.streamlit.app/
