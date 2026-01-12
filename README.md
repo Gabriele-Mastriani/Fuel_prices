@@ -8,7 +8,7 @@ L’applicazione interattiva è disponibile qui:
 ---
 ## 📌 Descrizione del progetto
 
-##Fuel&Go integra dati provenienti da fonti pubbliche (ASPI, MIMIT) per costruire una pipeline completa che va dalla raccolta dei dati alla visualizzazione interattiva.  
+Fuel&Go integra dati provenienti da fonti pubbliche (ASPI, MIMIT) per costruire una pipeline completa che va dalla raccolta dei dati alla visualizzazione interattiva.  
 Il progetto include:
 
 • Raccolta automatizzata dei dati (scraping e download da fonti ufficiali)
